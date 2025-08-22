@@ -41,6 +41,14 @@ Simulated a brute-force SSH attack using Hydra from Kali Linux against an Ubuntu
 
 ---
 
+### 🔒 SSH Firewall Hardening & Logging with UFW
+
+Configured firewall rules using UFW to restrict SSH access and enhance system security in a virtual Ubuntu environment. Enabled logging to monitor connection attempts and validated rule effectiveness through simulated traffic.
+
+📄 [View Full Case Study PDF](./Home_Lab_Projects/SSH_Firewall_UFW_Case_Study.pdf)
+
+---
+
 ### 📁 FTP Brute Force Attack + Log Analysis
 
 Simulated and analyzed an FTP brute-force attack using Hydra, reviewed vsftpd logs for intrusion detection, and documented the incident using a structured reporting format.  
