@@ -19,7 +19,7 @@ Hello! Thank you for coming here. I'm a cybersecurity enthusiast currently compl
 * Leadership: Led a team of 10+ trainees in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
 
 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
-* Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+* Developed a rigorous cybersecurity project portfolio on fictional clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
 
 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
 - Networking: TCP/IP, OSI, DNS, VPN
