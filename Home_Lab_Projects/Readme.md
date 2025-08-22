@@ -19,7 +19,7 @@ Demonstrated how attackers exploit weak credentials and how Fail2Ban can dynamic
 ### 🔒 SSH Firewall Hardening & Logging with UFW
 
 **Objective:**  
-Configured firewall rules using UFW to restrict SSH access and enhance system security in a virtual Ubuntu environment. Enabled logging to monitor connection attempts and validated rule effectiveness through simulated traffic.
+Configure firewall rules using UFW to restrict SSH access and enhance system security in a virtual Ubuntu environment. Enable logging to monitor connection attempts and validated rule effectiveness through simulated traffic.
 
 **Outcome:**  
 Strengthened SSH access control and gained experience in preventive firewall configuration and traffic monitoring using UFW.
