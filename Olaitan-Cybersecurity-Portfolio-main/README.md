@@ -11,13 +11,12 @@ Hello! Thank you for coming here. I'm a cybersecurity enthusiast currently compl
 * Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
 
 𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
-* IT Procurement: Saved 25% of the total cost of IT procurement.
-* NIST: Develop and maintain strategic preventive plans to counter ransomware attacks.
-* Risk Management: Developed a plan to prevent 16-hour downtime due to DNS migration.
-* Data Analysis: Developed data visualisations (Excel) to enhance sourcing reports, reducing processing time by ~10%.
-* Training: Conducted remote training for 6+ interns and created tutorial videos. Streamlined processes by 2 days.
-* Technical Support: Provided first-level support for platform inquiries, resolving 73.3% of issues.
-* Leadership: Led a team of 10+ interns in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
+* IT Procurement: Achieved a 25% reduction in IT procurement costs by optimizing sourcing strategies and leveraging supplier negotiations during operations at Baba Tee Farms.
+* NIST & compliance: Maintained 100% compliance with health and safety regulations through SOP development and internal audits—experience directly applicable to NIST, GDPR, and ISO 27001 frameworks.
+* Risk Management: Prevented operational disruptions by implementing early detection protocols and routine checks, reducing risk exposure by 30% and enhancing business continuity.
+* Data Analysis: Improved decision-making accuracy by 40% using spreadsheet-based tracking of over 2,000 data points, and reduced inventory waste by 15% through data-informed optimization.
+* Technical Support: Resolved over 1,200 client issues with a 92% satisfaction rating, implementing checklist systems that reduced data entry errors by 40% and improved retention
+* Leadership: Led a team of 10+ trainees in sourcing 15+ suppliers/week with a 95% attendance and participation rate.
 
 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
 * Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
