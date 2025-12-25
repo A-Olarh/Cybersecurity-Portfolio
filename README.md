@@ -1,15 +1,17 @@
 # 🛡️ Ayanloye Olaitan — Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I'm Ayanloye, a cybersecurity analyst-in-training with hands-on experience in threat detection, incident response, and log analysis. This portfolio showcases my learning journey through the **Google Cybersecurity Professional Certificate** and personal homelab simulations designed to mirror real-world attack scenarios.
+Welcome to my cybersecurity portfolio! I'm Ayanloye Olaitan, building practical cybersecurity skills through structured training and hands-on lab work. I focus on threat detection, incident response, and digital forensics—documenting everything I learn through real simulations and technical writeups.
 
 ---
 
 ## 🎯 Summary
 
-- Completed Google Cybersecurity Professional Certificate (Coursera)
-- Built hands-on projects simulating audits, threat modeling, and packet analysis
-- Designed and executed personal homelab simulations using Kali Linux, Ubuntu, Hydra, Fail2Ban, and vsftpd
-- Passionate about ethical hacking, digital forensics, and automation
+- Completed Google Cybersecurity Professional Certificate (Coursera,2025)
+- Completed 100+ rooms on TryHackMe (SOC operations, penetration testing, incident response)
+- Advanced to stage 2 of the 2025 WiCyS/SANS Cybersecurity Internship competition
+- Designed and executed homelab environment simulating attacks and defensive responses.
+- Hands-on projects simulating audits, threat modeling, and packet analysis
+- Documenting technical learning through case studies and writeups,
 
 ---
 
@@ -34,48 +36,91 @@ These projects reflect key areas of cybersecurity practice inspired by the Googl
 
 These are cybersecurity simulations I personally designed and executed in my home lab to deepen my understanding of threat detection, log analysis, and incident response.
 
-### 🔐 SSH Brute Force Attack + Fail2Ban Defense
+### 🔐 SSH Brute Force Attack & Mitigation
 
-Simulated a brute-force SSH attack using Hydra from Kali Linux against an Ubuntu server. Implemented blue team defense using Fail2Ban to detect and block repeated failed login attempts.  
+**Scenario**: Detected and responded to SSH brute-force attack targeting Ubuntu server
+
+**Attack Phase**:
+- Launched 1,000+ login attempts using Hydra with common credential lists
+- Monitored auth.log in real-time to observe attack patterns
+- Documented time-to-compromise and successful authentication attempts
+
+**Defense Phase**:
+- Deployed Fail2Ban with custom jail configuration
+- Set detection threshold: 5 failed attempts = 10-minute ban
+- Validated mitigation through repeat attack simulation
+
+**Key Findings**: 
+- Default SSH configurations vulnerable to automated attacks
+- Fail2Ban reduced attack surface by 95% within first 3 minutes
+- Recommended: key-based authentication + rate limiting + geographic restrictions
+
 📄 [View Full Case Study PDF](./Home_Lab_Projects/SSH_Brute_Force_Fail2Ban_Case_Study.pdf)
 
 ---
 
-### 🔒 SSH Firewall Hardening & Logging with UFW
+### 🚨 Multi-Vector Attack Simulation & Investigation
 
-Configured firewall rules using UFW to restrict SSH access and enhance system security in a virtual Ubuntu environment. Enabled logging to monitor connection attempts and validated rule effectiveness through simulated traffic.
+Simulated realistic attack chain:
+1. Nmap reconnaissance scan
+2. Exploited weak FTP credentials (Hydra)
+3. Lateral movement attempt via SSH
+4. Suspicious file upload to web directory
 
-📄 [View Full Case Study PDF](./Home_Lab_Projects/SSH_Firewall_UFW_Case_Study.pdf)
+Then investigated as blue team:
+- Correlated logs across multiple services (vsftpd, SSH, Apache)
+- Reconstructed attack timeline using system logs
+- Identified IOCs (source IPs, usernames, file hashes)
+- Created detection rules in Fail2Ban + UFW
+- Documented incident in NIST CSF format
+
+Tools: Wireshark, Splunk, FTK Imager, Linux audit logs
 
 ---
 
-### 📁 FTP Brute Force Attack + Log Analysis
+## 🛠️ Technical Capabilities
 
-Simulated and analyzed an FTP brute-force attack using Hydra, reviewed vsftpd logs for intrusion detection, and documented the incident using a structured reporting format.  
-📄 [View Full Case Study PDF](./Home_Lab_Projects/FTP_Brute_Force_Log_Analysis_Case_Study.pdf)
+**Threat Detection & Response**
+- Log analysis and correlation (auth logs, syslog, vsftpd)
+- SIEM tools: Splunk (queries, dashboards), Suricata (IDS rules)
+- Packet analysis: Wireshark (PCAP filtering, protocol analysis), tcpdump
 
----
+**Attack Simulation & Testing**
+- Offensive tools: Hydra (brute force), Nmap (reconnaissance), Metasploit basics
+- Defensive hardening: Fail2Ban, UFW, SSH key authentication
+- Lab environments: Kali Linux, Ubuntu Server, VirtualBox
 
-## 🛠️ Skills & Tools
-
-- **Networking:** TCP/IP, OSI, DNS, VPN  
-- **Tools:** Wireshark, Nmap, Hydra, Fail2Ban, Suricata, Splunk  
-- **Languages:** Python, Bash  
-- **Platforms:** Linux (Ubuntu), Kali Linux, GitHub  
-- **Concepts:** Risk management, incident response, vulnerability scanning, log analysis
+**Investigative Skills**
+- Timeline reconstruction from system logs
+- IOC identification and documentation
+- Incident reporting following structured frameworks
+- Basic scripting: Python (log parsing), Bash (automation)
 
 ---
 
 ## 📜 Certifications
 
-- Google Cybersecurity Professional Certificate (Coursera, July 2025)
-- Additional modules in progress: Security Operations, SIEM, Threat Intelligence
+- Google Cybersecurity Professional Certificate (Coursera, 2025)
+
+🎓 Current Training
+- TryHackMe: SOC Level 1 Learning Path (in progress)
+- Let's Defend: Blue Team exercises and incident simulations
+- Hack The Box: Offensive security fundamentals
 
 ---
 
-## 📫 Contact
+🚀 Current Focus
+- Building multi-system lab environment for DFIR practice
+- Completing TryHackMe SOC Analyst pathway
+- Documenting incident response procedures in personal playbook
+- Studying for CompTIA Security+ (planned Q2 2026)
 
-Let’s connect or collaborate:  
+## 📫 Let's Connect
+
+I'm actively seeking **entry-level SOC analyst or junior DFIR roles** where I can contribute to real security operations while learning from experienced practitioners.
+
+Open to: Internships, volunteer SOC work, mentorship, cybersecurity collaborations
+
 📧 Email: ayanloyeola@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/ayanloye-ola](https://www.linkedin.com/in/ayanloye-ola)  
 📁 Portfolio Repo: [github.com/A-Olarh/Cybersecurity-Portfolio](https://github.com/A-Olarh/Cybersecurity-Portfolio)
