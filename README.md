@@ -19,7 +19,7 @@
 
 ## 🧠 Cybersecurity Portfolio Projects
 
-These projects reflect key areas of cybersecurity practice inspired by the Google Cybersecurity curriculum:
+The table below reflects key areas of cybersecurity practice inspired by the Google Cybersecurity curriculum:
 
 | Module | Description | Skills Gained |
 | :--- | :--- | :--- |
