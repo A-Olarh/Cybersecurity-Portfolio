@@ -1,6 +1,7 @@
 # 🛡️ Ayanloye Olaitan — Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I'm Ayanloye Olaitan, building practical cybersecurity skills through structured training and hands-on lab work. I focus on threat detection, incident response, and digital forensics—documenting everything I learn through real simulations and technical writeups.
+ Ayanloye Olaitan Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics 
+ Turning complex lab simulations into actionable security intelligence.
 
 ---
 
