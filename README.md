@@ -1,5 +1,3 @@
-# 🛡️ Ayanloye Olaitan — Cybersecurity Portfolio
-
 <div align="center">
   <h1>Ayanloye Olaitan</h1>
   <p><b>Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics</b></p>
