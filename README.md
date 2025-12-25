@@ -1,4 +1,4 @@
-<div align="center"> <h1>🛡️ Ayanloye Olaitan</h1>
+<div align="center"> <h1> Ayanloye Olaitan</h1>
   <p><b>Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics</b></p>
   <p><i> I’m Olaitan, a security analyst who sees cybersecurity from both sides of the battlefield. 
     With a foundation in blue team operations and a current focus on Digital Forensics Incident Response, I bring a layered, attacker-aware perspective to my role in threat detection and incident response.
