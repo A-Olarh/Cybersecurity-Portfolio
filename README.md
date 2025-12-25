@@ -1,19 +1,20 @@
-<div align="center">
-  <h1>Ayanloye Olaitan</h1>
+<div align="center"> <h1>🛡️ Ayanloye Olaitan</h1>
   <p><b>Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics</b></p>
-  <p><i>Transforming lab-based simulations into technical security insights.</i></p>
+  <p><i> I’m Olaitan, a security analyst who sees cybersecurity from both sides of the battlefield. 
+    With a foundation in blue team operations and a current focus on Digital Forensics Incident Response, I bring a layered, attacker-aware perspective to my role in threat detection and incident response.
+    Currently, I transform lab-based simulations into technical security insights.</i></p>
 </div>
 
 ---
 
 ## 🎯 Summary
 
-- Completed Google Cybersecurity Professional Certificate (Coursera,2025)
-- Completed 100+ rooms on TryHackMe (SOC operations, penetration testing, incident response)
-- Advanced to stage 2 of the 2025 WiCyS/SANS Cybersecurity Internship competition
+- Completed 100+ rooms on TryHackMe (SOC operations, penetration testing, incident response) as a top 30% learner of 2025
+- Advanced to stage 2 of the 2025 WiCyS/SANS Cybersecurity Internship competition with a 76% hit rate on the Sans.io ctf platform
 - Designed and executed homelab environment simulating attacks and defensive responses.
 - Hands-on projects simulating audits, threat modeling, and packet analysis
 - Documenting technical learning through case studies and writeups,
+- - Completed Google Cybersecurity Professional Certificate (Coursera,2025)
 
 ---
 
@@ -21,16 +22,16 @@
 
 The table below reflects key areas of cybersecurity practice inspired by the Google Cybersecurity curriculum:
 
-| Module | Description | Skills Gained |
-| :--- | :--- | :--- |
-| Conduct an Audit | Security audit of a mock organization | NIST, INFOSEC, CIA triad, risk management |
-| Network Security | Securing network architecture | TCP/IP, firewalls, cloud networks |
-| Linux & SQL | Command-line and database security | Bash, SQL injection, access control |
-| Threats & Vulnerabilities | Identifying and mitigating risks | Threat modeling, CVEs, asset inventory |
-| Detection & Response | Incident response playbooks | SOC workflows, escalation, containment |
-| Tcpdump & Wireshark | Packet analysis and traffic inspection | PCAP, filters, network forensics |
-| IDS & SIEM | Monitoring and alerting | Suricata, Splunk, Chronicle |
-| Automation with Python | Scripting for security tasks | Python, log parsing, automation tools |
+| Practicals | Toolkit |
+| :--- | :--- |
+| Conducting security audit for a mock organization | NIST, INFOSEC, CIA triad, risk management |
+| Exploring Network security by securing network architecture | TCP/IP, firewalls, cloud networks |
+| Command-line and database security using Linux & SQL | Bash, SQL injection, access control |
+| Identifying and mitigating risks | Threat modeling, CVEs, asset inventory |
+| Incident response detection and response focusing on playbooks | SOC workflows, escalation, containment |
+| Packet analysis and traffic inspection using Tcpdump & Wireshark | PCAP, filters, network forensics |
+| IDS/SIEM Monitoring and alerting | Suricata, Splunk, Chronicle |
+| Automating security tasks | Python, log parsing, automation tools |
 
 ---
 
@@ -106,7 +107,7 @@ Tools: Wireshark, Splunk, FTK Imager, Linux audit logs
 
 🎓 Current Training
 - TryHackMe: SOC Level 1 Learning Path (in progress)
-- Let's Defend: Blue Team exercises and incident simulations
+- LetsDefend: Blue Team exercises and incident simulations
 - Hack The Box: Offensive security fundamentals
 
 ---
@@ -115,7 +116,7 @@ Tools: Wireshark, Splunk, FTK Imager, Linux audit logs
 - Building multi-system lab environment for DFIR practice
 - Completing TryHackMe SOC Analyst pathway
 - Documenting incident response procedures in personal playbook
-- Studying for CompTIA Security+ (planned Q2 2026)
+- Studying for CompTIA Security+ (planned Q1 2026)
 
 ## 📫 Let's Connect
 
