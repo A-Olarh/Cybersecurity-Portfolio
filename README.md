@@ -1,7 +1,10 @@
 # 🛡️ Ayanloye Olaitan — Cybersecurity Portfolio
 
- Ayanloye Olaitan Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics 
- Turning complex lab simulations into actionable security intelligence.
+<div align="center">
+  <h1>Ayanloye Olaitan</h1>
+  <p><b>Cybersecurity Analyst | Threat Detection • Incident Response • Digital Forensics</b></p>
+  <p><i>Transforming lab-based simulations into technical security insights.</i></p>
+</div>
 
 ---
 
